@@ -1,11 +1,7 @@
 package com.kodcu.katas.stringhesapmakinasi;
 
 public class StringHesapMakinasi {
-	Splitter splitter;
 
-	public StringHesapMakinasi() {
-		splitter = new Splitter();
-	}
 
 	public int add(String string) {
 
